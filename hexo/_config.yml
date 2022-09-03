@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Andreby的随记
+title:Vino的随记
 subtitle: 如果有什么需要明天做的事 最好现在开始做
 description: 如果有什么需要明天做的事 最好现在开始做
-author: Andreby
+author: Vino
 language: zh-Hans
 timezone: 
 
@@ -77,6 +77,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  repository: git@github.com:andreby42/andreby42.github.io.git
+  repository: git@github.com:vino42/vino42.github.io.git
   type: git
   branch: master
